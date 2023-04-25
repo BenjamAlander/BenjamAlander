@@ -14,7 +14,10 @@
 </div>
 
 ## About me:
-  
+I am pursuing a Bachelor of Engineering degree in Information and Communications Technology, specializing in data management, processing, and the development of artificial intelligence solutions. Throughout my studies, I will gain a comprehensive understanding of the entire data chain, from data collection and processing to the implementation of AI-powered services.
+
+I started my coding journey at the same time my studies started (August 2022), my main programming language is Python, but I can't wait to broaden my programming skills to other languages aswell.
+
 ### :hammer_and_wrench: Languages and Tools :
   
   <div>
