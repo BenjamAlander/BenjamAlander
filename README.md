@@ -15,12 +15,9 @@
 
 ## About me:
 I am pursuing a Bachelor of Engineering degree in Information and Communications Technology, specializing in data management, processing, and the development of artificial intelligence solutions. Throughout my studies, I will gain a comprehensive understanding of the entire data chain, from data collection and processing to the implementation of AI-powered services.
-
-### :hammer_and_wrench: Languages and Tools :
   
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
