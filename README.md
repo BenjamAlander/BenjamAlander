@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjam Alander</h1>
 <h3 align="center">A passionate ICT engineering student based in Helsinki, Finland.</h3>
 
-- 🔭 I’m currently working on [chatbot-stocks](https://github.com/BenjamAlander/Myrepo/tree/main/Projects/chatbot-stocks)
+- 🔭 I’m currently working on [PyZone - Locally ran Python tutor](https://github.com/BenjamAlander/Myrepo/tree/main/Projects/PyZone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BenjamAlander/Myrepo/tree/main/Projects](https://github.com/BenjamAlander/Myrepo/tree/main/Projects)
 
